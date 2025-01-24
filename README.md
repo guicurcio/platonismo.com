@@ -1,3 +1,12 @@
+
+
+
+
+https://github.com/user-attachments/assets/80b64a41-1f4c-4e2f-9554-8dce7af06c5f
+
+
+
+
 # platonismo.com – Non-Linear LLM Chat Application with Node Connections
 
 A **non-linear**, node-based LLM chat application where you can create, organize, and connect multiple chat nodes on an infinite canvas. Each node can represent a separate chat session or specialized context, and they can be linked to form a network of ideas or collaborative discussions.
